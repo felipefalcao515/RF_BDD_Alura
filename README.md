@@ -27,5 +27,6 @@ https://chromedriver.chromium.org/downloads
 In order to start running the project, download Organo and run the install command in its folder.
 npm install
 
-To run the test use the command above replacing the brackets with the test file's name, example: robot primeiro_teste.robot.
-robot {name}.robot
+To run the test use the command above replacing the brackets with the test file's name, example: 
+"robot primeiro_teste.robot";
+"robot {name}.robot".
